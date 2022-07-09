@@ -58,21 +58,6 @@ nbproject/
 npm-debug.log
 yarn-error.log
 
-# Laravel folders and files #
+# Django folders and files #
 #############################
-/public/js
-/public/css
-/public/images
-/public/svg
-/public/fonts
-/public/storage
-/public/mix-manifest.json
-/storage/debugbar
-Homestead.yaml
-Homestead.json
-.env
-.env.backup
-_ide_helper.php
-_ide_helper_models.php
-.phpstorm.meta.php
-.phpunit.result.cache
+*.sqlite3
